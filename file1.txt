@@ -1,2 +1,3 @@
 This is file1 Text
 New changes madefor commit change in remote repo
+file2
